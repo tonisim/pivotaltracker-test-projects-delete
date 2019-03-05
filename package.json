@@ -1,0 +1,17 @@
+{
+  "name": "pivotaldelete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-fetch": "^2.3.0",
+    "nodemon": "^1.18.10",
+    "wildcard-regex": "^3.0.2"
+  }
+}
