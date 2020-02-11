@@ -9,9 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "node-fetch": "^2.3.0",
-    "nodemon": "^1.18.10",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.4",
     "wildcard-regex": "^3.0.2"
   }
 }
